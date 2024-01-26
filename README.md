@@ -1,1 +1,0 @@
-# Gestion-des-Formations-avec-Odoo
